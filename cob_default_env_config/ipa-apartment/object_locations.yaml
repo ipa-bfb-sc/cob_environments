@@ -5,7 +5,7 @@
 salt:
   model: salt
   model_type: urdf
-  position: [ -1.5, -1.0, 0.9 ]
+  position: [ -1.35, -1.0, 0.9 ]
   orientation: [0, 0, 1.570796]
 
 tomato_soup:
